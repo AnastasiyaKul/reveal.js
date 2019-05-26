@@ -1,1 +1,1 @@
-**To open a presentation, run index.html**
+**Open index.html to see a presentation**
